@@ -1,5 +1,5 @@
 // import Styling from "./Materi/Styling";
-import Portofolio from "./Materi/Styling/Portofolio";
+import Portofolio from "./Portofolio";
 
 function App() {
   return (
