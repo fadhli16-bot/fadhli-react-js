@@ -1,10 +1,11 @@
-// import Styling from "./Materi/Styling";
-import Portofolio from "./Portofolio";
+import Formulir from "./Materi/Form";
+// import Form from "./Materi/Form";
 
 function App() {
   return (
     <div className="App">
-      <Portofolio />
+      {/* <FormElement /> */}
+      <Formulir />
     </div>
   );
 }
